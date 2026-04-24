@@ -6,7 +6,6 @@ A simulated brute-force attack was conducted against a domain user account withi
 ---
 
 ## 🏗️ Lab Setup
-![Uploading Lab1a.png…]()
 
 ### Environment
 - 2 Virtual Machines (Hyper-V):
