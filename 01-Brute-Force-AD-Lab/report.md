@@ -38,6 +38,7 @@ A brute-force attack was simulated from the client machine by repeatedly attempt
 - Multiple incorrect password attempts were entered within a short timeframe
 - Followed by a successful login attempt
 
+![Failed Login](Screenshots/Lab1d.png)
 ---
 
 ## 📊 Log Analysis
@@ -100,9 +101,9 @@ Key takeaways:
 ---
 
 ## 📸 Evidence
-
+![Failed Logins](Screenshots/Lab1f.png)  
 - Multiple Event ID 4771 failures  
-- Example Event ID 4771 details  
+- Example Event ID 4771 details
 - Event ID 4624 successful login  
 
 ---
