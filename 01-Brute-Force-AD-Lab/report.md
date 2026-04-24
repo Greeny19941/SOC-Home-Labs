@@ -11,6 +11,8 @@ A simulated brute-force attack was conducted against a domain user account withi
 - 2 Virtual Machines (Hyper-V):
   - Domain Controller: Windows Server 2022 (Desktop Experience)
   - Client Machine: Windows 11
+ 
+  - ![Lab Setup] (screenshots/lab1a.png)
 
 ### Configuration
 - Active Directory Domain Services (AD DS) installed
