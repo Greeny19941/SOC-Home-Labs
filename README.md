@@ -9,7 +9,7 @@ This repository contains practical SOC-style home labs focused on Active Directo
 - Windows Server (Active Directory)
 - Windows 10 Client
 - Event Viewer (Security Logs)
-- VirtualBox / VMware
+- Hyper-V
 
 ## Goal
 Build practical SOC investigation skills before starting a Junior Security Analyst role.
