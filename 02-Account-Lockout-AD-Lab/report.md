@@ -70,13 +70,13 @@ This reflects real-world SOC investigations, where analysts often rely on outcom
 The following screenshots are included:
 
 - Event ID 4740 showing account lockout details
-![Event ID 4740 log](Lab2c.png)
+![Event ID 4740 log](Screenshots/Lab2c.png)
 
 - Expanded 4740 event showing user and source machine
-- ![Event ID 4740 Expanded](Lab2d.png)
+- ![Event ID 4740 Expanded](Screenshots/Lab2d.png)
   
 - Client-side lockout message indicating restricted access
-- ![Client Lockout](Lab2b.png) 
+- ![Client Lockout](Screenshots/Lab2b.png) 
 
 ---
 
