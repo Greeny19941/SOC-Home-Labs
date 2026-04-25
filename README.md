@@ -3,12 +3,13 @@
 This repository contains practical SOC-style home labs focused on Active Directory security investigations and log analysis.
 
 ## Labs Included
-- Brute Force Attack Detection in Active Directory (in progress)
+- Brute Force Attack Detection in Active Directory
+- Account Lockout in Active Directory
 
 ## Tools Used
 - Windows Server (Active Directory)
-- Windows 10 Client
-- Event Viewer (Security Logs)
+- Windows 11 Client
+- Event Viewer 
 - Hyper-V
 
 ## Goal
