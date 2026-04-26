@@ -63,9 +63,12 @@ By reviewing individual 4625 events and confirming that each corresponded to a d
 
 The following screenshots are included:
 
-- Event Viewer showing multiple Event ID 4625 failed logon attempts  
-- Expanded 4625 event showing account name and source machine  
-- Evidence of multiple users being targeted  
+- Event Viewer showing multiple Event ID 4625 failed logon attempts and evidence of multiple users being targeted
+- ![4625 errors in Event Viewer](Screenshots/lab3b.png)
+- Expanded 4625 event showing account name and source machine
+- ![4625 error example explanded](Screenshots/lab3c.png)
+- AD User Creation
+- ![AD format](Screenshots/lab3a.png)
 
 ---
 
