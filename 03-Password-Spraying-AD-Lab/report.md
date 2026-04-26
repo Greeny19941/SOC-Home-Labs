@@ -78,6 +78,6 @@ Key findings:
 - Event ID 4625 provided clear visibility of failed logon attempts  
 - No account lockouts occurred, reflecting the stealthy nature of password spraying attacks  
 
-This highlights an important SOC principle: attackers may distribute authentication attempts across multiple accounts to avoid detection, requiring analysts to identify patterns across users rather than focusing on a single account.
+This highlights an important principle: attackers may distribute authentication attempts across multiple accounts to avoid detection, requiring analysts to identify patterns across users rather than focusing on a single account.
 
 ---
